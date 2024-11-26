@@ -1,0 +1,11 @@
+streamlit
+moviepy
+SpeechRecognition
+pydub
+google-generativeai
+numpy
+librosa
+edge-tts
+Pillow
+python-dotenv
+soundfile
